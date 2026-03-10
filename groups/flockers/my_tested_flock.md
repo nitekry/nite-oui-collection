@@ -65,7 +65,7 @@ These appear to be locally administered MAC addresses, but they have been observ
 |---|---|
 | `00:0c:e7` | MediaTek; observed as a possible false positive |
 
-## Grouped Set
+## Observe repeating locally assigned
 
 ```text
 12:ea:14
