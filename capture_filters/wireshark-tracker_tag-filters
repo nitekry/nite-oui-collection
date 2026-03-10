@@ -1,0 +1,35 @@
+Tracking Tags: Airtag,Tile,SmartTag,Chipolo
+
+btcommon.eir_ad.entry.uuid16 == 0xfd44 || btcommon.eir_ad.entry.company_id == 0x0e0c || btcommon.eir_ad.entry.uuid16 == 0xfd5a || btcommon.eir_ad.entry.company_id == 0x0917
+Airtag higher confidence: btcommon.eir_ad.entry.company_id == 0x004c && btcommon.eir_ad.entry.uuid16 == 0xfd44  
+
+Apple AirTag
+Company ID: 0x004C (Apple)
+Service UUID: 0xFD44 (Find My)
+Adv Type: Non-connectable (ADV_NONCONN_IND)
+Filter: btcommon.eir_ad.entry.company_id == 0x004c && btcommon.eir_ad.entry.uuid16 == 0xfd44
+
+Tile/Life360
+Company ID: 0x0E0C (Tile, Inc.)
+Service UUIDs: Typically 0xFEED or vendor-specific 128-bit UUIDs.
+Filter: btcommon.eir_ad.entry.company_id == 0x0e0c
+
+Samsung SmartTag
+Company ID: 0x0075 (Samsung Electronics)
+Service UUID: 0xFD5A (Samsung Find)
+Filter: btcommon.eir_ad.entry.company_id == 0x0075 && btcommon.eir_ad.entry.uuid16 == 0xfd5a
+
+Chipolo
+Company ID: 0x0917 (Chipolo)
+Service UUIDs: Custom, often appear under manufacturer data.
+Notes: Chipolo also partners with Apple (Find My certified).
+Filter: btcommon.eir_ad.entry.company_id == 0x0917
+
+-------------------------------
+
+BodyWorn Remote HCSO 
+name pattern: btcommon.eir_ad.entry.device_name contains "BodyWorn Remote"
+OUI: bluetooth.addr[0:3] == 00:09:BC
+vendor UUID (after connect): btatt.uuid128 == 0cf1640c-1c36-4c68-b411-08f344e1d6d1
+
+bthci_evt.code == 0x3e && btcommon.eir_ad.entry.device_name contains "BodyWorn Remote"

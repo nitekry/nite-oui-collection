@@ -1,0 +1,50 @@
+Utility Inc.  
+00:09:BC  
+00:16:ED
+  
+Observed Devices  
+  
+00:09:bc:05:f0:dc BodyWorn Remote F0DC  
+00:09:bc:05:a0:a1 BodyWorn Remote A0A1  
+00:09:bc:05:ac:d8 BodyWorn Remote ACD8  
+00:09:bc:05:b4:d1 BodyWorn Remote B4D1  
+00:09:bc:05:a0:7b BodyWorn Remote A07B  
+00:09:bc:05:af:8d BodyWorn Remote AF8D  
+00:09:bc:05:02:6d BodyWorn Remote 026D  
+00:09:bc:05:ce:a7 BodyWorn Remote CEA7  
+00:09:bc:05:e3:97 BodyWorn Remote E397 
+
+nRF Connect BLE Scanner, 2025-08-21
+BodyWorn Remote 0363 (00:09:BC:05:03:63)
+I	17:51:22.948	Name: BodyWorn Remote 0363
+Address: 00:09:BC:05:03:63
+UUID: 0cf1640c-1c36-4c68-b411-08f344e1d6d1
+RSSI: -93 dBm
+Last advertisement packet:
+Raw data: 0x0201041509426F6479576F726E2052656D6F74652030333633
+
+---
+
+Common observations examples 
+LE-OpenRun Pro 41:bb.02
+LE-OpenRun Pro 5f:1a:38
+
+br28_hyk_300_lbox f0:41:c8
+
+WLLINK-CFFB c1:22:23
+WLLINK-41AD c1:22:33
+
+Storage 208 90:35:ea
+Storage 117 90:35:ea
+
+BLE Name ArrowQ
+
+WQ-81A183410118 (10:80:04:88:21:28)  
+I	12:27:55.193	Name: WQ-81A183410118  
+Address: 10:80:04:88:21:28  
+UUID: 654f5e1b-300e-4d36-92e4-3ba9599d5844  
+RSSI: -86 dBm  
+Last advertisement packet:  
+Raw data: 0x0201060303161803190000020AFE100957512D383141313833343130313138  
+  
+WQ-79A133140164  
