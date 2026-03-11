@@ -22,19 +22,19 @@
 | `e8:d0:fc` |  |
 | `00:0c:e7` | Possible false positive |
 | `58:8e:81` |  |
-| `cc:cc:cc` |  |
+| `cc:cc:cc` | No clue - No hits |
 
 ## My Findings
 
 | Prefix | Confidence / Notes |
 |---|---|
-| `ec:1b:bd` |  |
-| `3c:71:bf` |  |
+| `ec:1b:bd` | Solid hits still testing |
+| `3c:71:bf` | Solid hits still testing |
 | `90:35:ea` | High confidence |
 | `24:b2:b9` | High confidence |
 | `c0:35:32` | High confidence |
 | `b8:35:32` | High confidence |
-| `eo:4f:43` |  |
+| `e0:4f:43` | Solid hits still testing |
 
 ## Lite-On
 
