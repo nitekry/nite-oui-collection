@@ -34,6 +34,7 @@
 | `24:b2:b9` | High confidence |
 | `c0:35:32` | High confidence |
 | `b8:35:32` | High confidence |
+| `eo:4f:43` |  |
 
 ## Lite-On
 
