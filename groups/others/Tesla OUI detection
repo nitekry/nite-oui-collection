@@ -1,0 +1,9 @@
+Tesla OUI detection
+e.g. 0c:29:8f:51:55:cc SSID NETGHEAR39-5g
+
+wlan.addr[0:3] == 0x0c298f ||
+wlan.addr[0:3] == 0x4cfcaa ||
+wlan.addr[0:3] == 0x54f8f0 ||
+wlan.addr[0:3] == 0x90e643 ||
+wlan.addr[0:3] == 0x98ed5c ||
+wlan.addr[0:3] == 0xd44f14
