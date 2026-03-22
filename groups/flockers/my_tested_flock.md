@@ -36,11 +36,14 @@
 | `b8:35:32` | High confidence |
 | `e0:4f:43` | Solid hits still testing |
 
+
 ## Lite-On
 
 | Prefix | Confidence / Notes |
 |---|---|
 | `58:00:e3` | Possible |
+| `5c:93:a2` | Still verifying |
+| `64:6e:69` | Still verifying |
 
 ## Locally Administered MACs Seen Repeatedly
 
