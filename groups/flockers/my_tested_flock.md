@@ -45,6 +45,15 @@
 | `5c:93:a2` | Still verifying |
 | `64:6e:69` | Still verifying |
 
+## Crowdsource
+
+| OUI | Vendor / Role | Confidence | Source |
+|---|---|---|---|
+| `00:0C:E7` | Flock Safety device (STA/client) | High pcap direct observation 6 devices | This capture |
+| `08:3A:88` | Espressif Flock Falcon V2 WiFi module | High prior field capture | Previous analysis |
+| `48:27:EA` | Espressif plausible Flock variant | Low | WiGLE crowdsource |
+| `A4:CF:12` | Espressif plausible Flock variant | Low |  WiGLE crowdsource |
+
 ## Locally Administered MACs Seen Repeatedly
 
 These appear to be locally administered MAC addresses, but they have been observed in several scans miles apart.
