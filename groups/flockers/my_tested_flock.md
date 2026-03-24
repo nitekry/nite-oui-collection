@@ -2,27 +2,27 @@
 
 ## Original GainSec List
 
-| Prefix | Confidence / Notes |
-|---|---|
-| `70:c9:4e` |  |
-| `3c:91:80` |  |
-| `d8:f3:bc` |  |
-| `80:30:49` |  |
-| `14:5a:fc` |  |
-| `74:4c:a1` |  |
-| `08:3a:88` | High confidence |
-| `9c:2f:9d` |  |
-| `94:08:53` |  |
-| `e4:aa:ea` |  |
-| `f4:6a:dd` | High confidence |
-| `f8:a2:d6` | Low confidence - hit on Sony Media Player |
-| `e0:0a:f6` |  |
-| `00:f4:8d` |  |
-| `d0:39:57` | High confidence |
-| `e8:d0:fc` |  |
-| `00:0c:e7` | Possible false positive |
-| `58:8e:81` |  |
-| `cc:cc:cc` | No clue - No hits |
+| Prefix | Confidence / Notes | Strike |
+|---|---|---|
+| `70:c9:4e` |  |  |
+| `3c:91:80` |  |  |
+| `d8:f3:bc` |  |  |
+| `80:30:49` |  |  |
+| `14:5a:fc` |  |  |
+| `74:4c:a1` |  |  |
+| `08:3a:88` | High confidence |  |
+| `9c:2f:9d` |  |  |
+| `94:08:53` |  |  |
+| `e4:aa:ea` |  |  |
+| `f4:6a:dd` | High confidence |  |
+| `f8:a2:d6` | Low confidence - hit on Sony Media Player | Removed |
+| `e0:0a:f6` |  |  |
+| `00:f4:8d` |  |  |
+| `d0:39:57` | High confidence |  |
+| `e8:d0:fc` |  |  |
+| `00:0c:e7` | Possible false positive | Removed |
+| `58:8e:81` |  |  |
+| `cc:cc:cc` | No clue - No hits | Removed |
 
 ## My Findings
 
