@@ -12,7 +12,7 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 | `80:30:49` |  | Active |
 | `14:5a:fc` |  | Active |
 | `74:4c:a1` |  | Active |
-| `08:3a:88` | High confidence | Active |
+| `08:3a:88` | BLE Ring conflict | Active |
 | `9c:2f:9d` | High confidence | Active |
 | `94:08:53` |  | Active |
 | `e4:aa:ea` |  | Active |
@@ -65,31 +65,6 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 | `08:3a:88` | Espressif Flock Falcon V2 Wi-Fi module | High | Previous analysis |
 | `48:27:ea` | Espressif plausible Flock variant | Low | WiGLE crowdsource |
 | `a4:cf:12` | Espressif plausible Flock variant | Low | WiGLE crowdsource |
-
-## Locally Administered MACs Seen Repeatedly
-
-These are locally administered MAC prefixes, not globally assigned vendor OUIs, but they have been observed repeatedly across scans and locations.
-
-| Prefix | Notes |
-|---|---|
-| `12:ea:14` | Repeated observation |
-| `16:ea:14` | Repeated observation |
-| `1a:ea:14` | Repeated observation |
-| `b2:19:21` | Repeated observation |
-
-## Low Confidence
-
-| Prefix | Notes |
-|---|---|
-| `92:80:d4` | Low confidence |
-| `0e:fe:7b` | Low confidence |
-| `16:e6:39` | Low confidence |
-
-## Weak Globals
-
-| Prefix | Notes |
-|---|---|
-| `00:0c:e7` | MediaTek; observed as a possible false positive |
 
 ## Notes
 
