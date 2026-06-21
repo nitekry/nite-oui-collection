@@ -44,7 +44,7 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 |---|---|
 | `14:b5:cd` | New finding |
 | `6c:cd:d6` | New finding |
-| `94:2a:6f` | New finding |
+| `94:2a:6f` | Wigle Finding no good Ubiquiti broadcasting fake defult flock ssid |
 | `b8:1e:a4` | High confidence |
 | `f4:e2:c6` | New finding |
 
