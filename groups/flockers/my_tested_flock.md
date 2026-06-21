@@ -38,15 +38,15 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 | `b8:35:32` | High confidence |
 | `e0:4f:43` | Solid hits; still testing |
 
-## New Findings — April 2026
+## New Findings — April 2026 extract from Wigle Flock-% 
 
 | Prefix | Confidence / Notes |
 |---|---|
-| `14:b5:cd` | New finding |
-| `6c:cd:d6` | New finding |
-| `94:2a:6f` | Wigle Finding no good Ubiquiti broadcasting fake defult flock ssid |
+| `14:b5:cd` | New finding testing |
+| `6c:cd:d6` | Nope - Netgear |
+| `94:2a:6f` | Nope -  Ubiquiti |
 | `b8:1e:a4` | High confidence |
-| `f4:e2:c6` | New finding |
+| `f4:e2:c6` | New finding testing |
 
 ## Lite-On
 
