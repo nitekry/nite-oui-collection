@@ -46,7 +46,7 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 | `6c:cd:d6` | Nope - Netgear |
 | `94:2a:6f` | Nope -  Ubiquiti |
 | `b8:1e:a4` | High confidence |
-| `f4:e2:c6` | New finding testing |
+| `f4:e2:c6` | Nope -  Ubiquiti |
 
 ## Lite-On
 
