@@ -40,13 +40,13 @@ This file consolidates the current tracked prefixes, confidence notes, and weak 
 
 ## New Findings — April 2026 extract from Wigle Flock-% 
 
-| Prefix | Confidence / Notes |
-|---|---|
+| Prefix | Confidence / Notes | Status |
+|---|---|---|
 | `b8:1e:a4` | High confidence |
 | `14:b5:cd` | New finding testing |
-| `6c:cd:d6` | Nope - Netgear |
-| `94:2a:6f` | Nope -  Ubiquiti |
-| `f4:e2:c6` | Nope -  Ubiquiti |
+| `6c:cd:d6` | Nope - Netgear | Removed |
+| `94:2a:6f` | Nope -  Ubiquiti | Removed |
+| `f4:e2:c6` | Nope -  Ubiquiti | Removed |
 
 ## Lite-On
 
